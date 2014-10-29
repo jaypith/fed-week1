@@ -1,0 +1,21 @@
+	p {
+		color: red;
+		text-indent:10%;
+		font-size:14px;
+		line-height:20px;
+	}
+
+	.green {
+		color: green;
+
+	}
+
+	body{ 
+		font-family:'Arial' sans-serif;
+	}
+	
+	#post{
+		width: 80%;
+		margin: 0px auto;
+		color:#0B0B0b;
+	}
